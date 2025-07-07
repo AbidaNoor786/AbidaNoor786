@@ -1,3 +1,5 @@
+![image alt](https://sdmntprwestus.oaiusercontent.com/files/00000000-99a8-6230-99b5-ea3b380f25bc/raw?se=2025-07-07T20%3A01%3A50Z&sp=r&sv=2024-08-04&sr=b&scid=dda1b9b1-fa29-52df-a735-244e54b8a867&skoid=ea0c7534-f237-4ccd-b7ea-766c4ed977ad&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-07-07T18%3A39%3A08Z&ske=2025-07-08T18%3A39%3A08Z&sks=b&skv=2024-08-04&sig=3KgpNaYwYqQ84npstj%2B7Oe%2B6cJp3Z7GjRK5r9ni3eFM%3D)
+
 <h1 align="center">Hi 👋, I'm Abida Noor</h1>
 <h3 align="center">A frontend developer from Pakistan</h3>
 
